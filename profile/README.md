@@ -21,10 +21,14 @@ Clone os repositórios colocando o link deles (da pra copiar da tabela):
 ```bash
 git clone link-do-repositorio
 ```
-Entre na pasta e abra o VSCode
+Entre na pasta e mude pra sua branch (seu RM)
+```bash
+git checkout branch rm000000
+```
 ```bash
 cd nome-do-repositorio
 ```
+Então abra o VSCode.
 ```bash
 code .
 ```
