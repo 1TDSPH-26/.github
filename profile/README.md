@@ -4,8 +4,9 @@
 | Conceitos  | Repositórios |
 | ------------- |:-------------:|
 | @media-queries e BEM      | [front-1sem-aula-01](https://github.com/1TDSPH-26/front-1sem-aula-01) |
-| Formulário e Início de JS      | [front-1sem-aula-02](https://github.com/1TDSPH-26/front-1sem-aula-01)     |
-| JS : Variáveis e saída de dados      | [front-1sem-aula-03](https://github.com/1TDSPH-26/front-1sem-aula-01)     |
+| Formulário e Início de JS      | [front-1sem-aula-02](https://github.com/1TDSPH-26/front-1sem-aula-02)     |
+| JS : Variáveis e saída de dados      | [front-1sem-aula-03](https://github.com/1TDSPH-26/front-1sem-aula-03)     |
+| Estruturas e manipulação de dados  | [front-1sem-aula-04](https://github.com/1TDSPH-26/front-1sem-aula-04)     |
 
 ---
 
@@ -38,3 +39,6 @@ code .
 ## 📖 Cursos
 * [Front-End](https://on.fiap.com.br/nano-courses/course/?id=15384) - Nano Course (Básico de HTML, CSS e JS)
 * [Figma](https://www.alura.com.br/formacao-figma) - Alura
+## 🎮 Jogos
+* [Flexbox Froggy](https://flexboxfroggy.com/) - Excelente para treinar layout com Flex.
+* [Grid Garden](https://codepip.com/games/grid-garden/) - Bom para treinar Grid layout.
