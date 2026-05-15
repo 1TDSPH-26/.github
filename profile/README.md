@@ -7,6 +7,7 @@
 | Formulário e Início de JS      | [front-1sem-aula-02](https://github.com/1TDSPH-26/front-1sem-aula-02)     |
 | JS : Variáveis e saída de dados      | [front-1sem-aula-03](https://github.com/1TDSPH-26/front-1sem-aula-03)     |
 | Estruturas e manipulação de dados  | [front-1sem-aula-04](https://github.com/1TDSPH-26/front-1sem-aula-04)     |
+| Funções e DOM  | [front-1sem-aula-05](https://github.com/1TDSPH-26/front-1sem-aula-05)     |
 
 ---
 
