@@ -1,4 +1,4 @@
-# 💻 1TDSPH - Análise e Desenvolvimento de Sistemas
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=333333&&fontAlignY=30&height=200&section=header&text=%F0%9F%92%BB%201TDSPH%20-%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&fontSize=28&fontColor=ffffff)
 
 ## 🗄️ Repositórios das aulas
 | Conceitos  | Repositórios |
@@ -8,6 +8,7 @@
 | JS : Variáveis e saída de dados      | [front-1sem-aula-03](https://github.com/1TDSPH-26/front-1sem-aula-03)     |
 | Estruturas e manipulação de dados  | [front-1sem-aula-04](https://github.com/1TDSPH-26/front-1sem-aula-04)     |
 | Funções e DOM  | [front-1sem-aula-05](https://github.com/1TDSPH-26/front-1sem-aula-05)     |
+| Modais JS  | [front-1sem-aula-06](https://github.com/1TDSPH-26/front-1sem-aula-06)     |
 
 ---
 
