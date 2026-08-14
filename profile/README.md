@@ -88,7 +88,7 @@
 
 ---
 
-# 🔥 Como clonar os projetos
+# 🔥 Como clonar e iniciar os projetos
 
 ## Clone o repositório
 
@@ -102,6 +102,13 @@ git clone LINK_DO_REPOSITORIO
 
 ```bash id="sl5npq"
 cd nome-do-projeto
+```
+---
+
+## Baixe (se necessário) e inicie o Git Flow
+```bash
+winget install GitTower.GitFlowNext
+git flow init
 ```
 
 ---
