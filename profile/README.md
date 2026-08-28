@@ -85,6 +85,8 @@
 | Node, NPM e Typescript | [front-2sem-aula-01](https://github.com/1TDSPH-26/front-2sem-aula-01.git)     |
 | Projeto Node | [front-2sem-aula-02](https://github.com/1TDSPH-26/front-2sem-aula-02.git)     |
 | GitFlow e React+Vite | [front-2sem-aula-04](https://github.com/1TDSPH-26/front-2sem-aula-04.git)     |
+| Props, Type e Cards | [front-2sem-aula-05](https://github.com/1TDSPH-26/front-2sem-aula-05.git)     |
+| React Router | [front-2sem-aula-08](https://github.com/1TDSPH-26/front-2sem-aula-08.git)     |
 
 ---
 
