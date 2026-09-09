@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,react,vite,tailwind" />
 
 </div>
 
@@ -87,6 +87,10 @@
 | GitFlow e React+Vite | [front-2sem-aula-04](https://github.com/1TDSPH-26/front-2sem-aula-04.git)     |
 | Props, Type e Cards | [front-2sem-aula-05](https://github.com/1TDSPH-26/front-2sem-aula-05.git)     |
 | React Router | [front-2sem-aula-08](https://github.com/1TDSPH-26/front-2sem-aula-08.git)     |
+| Tailwind | [front-2sem-aula-09](https://github.com/1TDSPH-26/front-2sem-aula-09.git)     |
+| Referências de Imagem | [front-2sem-aula-10](https://github.com/1TDSPH-26/front-2sem-aula-10.git)     |
+| useState | [front-2sem-aula-11](https://github.com/1TDSPH-26/front-2sem-aula-11.git)     |
+| Nomes das Rotas nas Abas | [front-2sem-aula-12](https://github.com/1TDSPH-26/front-2sem-aula-12.git)     |
 
 ---
 
