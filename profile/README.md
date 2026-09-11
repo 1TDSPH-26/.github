@@ -91,6 +91,7 @@
 | Referências de Imagem | [front-2sem-aula-10](https://github.com/1TDSPH-26/front-2sem-aula-10.git)     |
 | useState | [front-2sem-aula-11](https://github.com/1TDSPH-26/front-2sem-aula-11.git)     |
 | Nomes das Rotas nas Abas | [front-2sem-aula-12](https://github.com/1TDSPH-26/front-2sem-aula-12.git)     |
+| Hooks e Rotas Dinâmicas | [front-2sem-aula-13](https://github.com/1TDSPH-26/front-2sem-aula-13.git)     |
 
 ---
 
